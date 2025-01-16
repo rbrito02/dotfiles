@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "main"]
+	url = git@github.com:rbrito02/tmux.git
+	fetch = +refs/heads/*:refs/remotes/main/*
+[branch "master"]
+	remote = main
+	merge = refs/heads/master

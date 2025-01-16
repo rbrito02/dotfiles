@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 f7196fa44947d3b6608dada95325f1a1e653b79d Raudy Brito <raudyb02@gmail.com> 1703059666 -0500	clone: from https://github.com/rbrito02/tmux-sessionx
+f7196fa44947d3b6608dada95325f1a1e653b79d a4ddf3d1cb83648f5ad7861adaba2082c75c3f13 Raudy Brito <raudyb02@gmail.com> 1703060171 -0500	commit: Changed to ctrl-k over alt-bspace as the later is not tmux supported
